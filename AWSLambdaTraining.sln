@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaTraining", "AWSLambdaTraining\AWSLambdaTraining.csproj", "{B8822200-0BB8-4D82-B45E-D4AF4D37EE00}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSLambdaTraining.Tests", "AWSLambdaTraining.Tests\AWSLambdaTraining.Tests.csproj", "{4B9D11BD-24B7-4DD9-A42C-DEE0A23A9EC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8822200-0BB8-4D82-B45E-D4AF4D37EE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8822200-0BB8-4D82-B45E-D4AF4D37EE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8822200-0BB8-4D82-B45E-D4AF4D37EE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8822200-0BB8-4D82-B45E-D4AF4D37EE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9D11BD-24B7-4DD9-A42C-DEE0A23A9EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9D11BD-24B7-4DD9-A42C-DEE0A23A9EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9D11BD-24B7-4DD9-A42C-DEE0A23A9EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9D11BD-24B7-4DD9-A42C-DEE0A23A9EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D24609E-3AB9-431E-9D9C-91DE70F6791C}
+	EndGlobalSection
+EndGlobal
